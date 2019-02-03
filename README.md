@@ -1,5 +1,5 @@
 # Fire-Outbreak-Prediction
-This web app makes a prediction of if there is a high probability of a fire outbreak or not based on a deep learning model which was developed with Keras and integrated into a flsk framework to make a web app
+This web app makes a prediction of if there is a high probability of a fire outbreak or not based on a deep learning model which was developed with Keras and integrated into a flask framework to make a web app
 
 Technologies Used:
 
